@@ -1,0 +1,9 @@
+"","pjtn_yesterday_pjtn_average_value","sigma_yesterday_sigma_average_value","thy_resv_yesterday_thy_resv_average_value","swrd_yesterday_swrd_trip_count","dqi_yesterday_dqi_average_value","hvv_yesterday_hvv_average_value","wndw_yesterday_wndw_average_value","jitter"
+"pjtn_yesterday_pjtn_average_value",1,-0.02,-0.08,0.13,-0.15,-0.03,-0.19,0.43
+"sigma_yesterday_sigma_average_value",-0.02,1,0.16,0.09,0.13,-0.06,-0.03,0.01
+"thy_resv_yesterday_thy_resv_average_value",-0.08,0.16,1,-0.11,0.1,0.31,0.41,0.04
+"swrd_yesterday_swrd_trip_count",0.13,0.09,-0.11,1,-0.13,-0.25,-0.21,0.15
+"dqi_yesterday_dqi_average_value",-0.15,0.13,0.1,-0.13,1,0.11,0.33,-0.14
+"hvv_yesterday_hvv_average_value",-0.03,-0.06,0.31,-0.25,0.11,1,0.43,-0.04
+"wndw_yesterday_wndw_average_value",-0.19,-0.03,0.41,-0.21,0.33,0.43,1,-0.13
+"jitter",0.43,0.01,0.04,0.15,-0.14,-0.04,-0.13,1

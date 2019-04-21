@@ -1,0 +1,10 @@
+NTComplexTable 
+    string[] labels [secondsPastEpoch,values,nanoseconds,severity,status]
+    structure value
+        long[] secondsPastEpoch [1482526444]
+        double[] values [nan]
+        int[] nanoseconds [73417461]
+        int[] severity [3]
+        int[] status [17]
+
+
